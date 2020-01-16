@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Pirata+One|Playfair+Display&display=swap');//   font-family: 'Pirata One', cursive;
+
+body{
+  background-color: rgba(48, 161, 236, 0.822);
+
+.App{
+margin: auto;
+max-width: 500px;
+text-align: center;
+font-family: 'Playfair Display', serif;
+
+h1{
+  font-family: 'Pirata One', cursive;
+  font-size: 300%;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+.wheel{
+  font-size: 100px;
+  text-decoration: none;
+  color: black;
+}
+.date{
+  font-size: 30px;
+}
+
+}
+}
